@@ -20,7 +20,7 @@ pip install bs4
 
 pkg install git
 
-git clone https://github.com/MAHADI-143/OLD-CRACK.git
+git clone https://github.com/JISAN-404/CRACK-PRO
 
 cd CRACK-PRO
 
